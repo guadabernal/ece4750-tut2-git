@@ -1,5 +1,8 @@
-triangle
+apple
+mango
+orange
 banana
 peach
 lemon
 date
+kiwi
